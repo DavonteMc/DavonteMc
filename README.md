@@ -36,16 +36,15 @@ Currently, I’m developing production-grade applications, integrating AI into r
 📅 January 2024 – August 2025  
 
 **Core Skills**  
-- Languages: HTML, CSS, JavaScript, Python, C#, Java  
-- Frameworks & Libraries: React, Next.js, Vite, Express.js, Blazor MAUI Hybrid, FastAPI 
-- Databases: SQL, MongoDB, Supabase (Postgres), ERDs, Normalization, Triggers & Functions
-- Development Practices: Agile, OOP, Docker, Linux, Version Control
-- UI/UX: Figma, Behavioural & Structural diagrams  
-- Testing: Black box, White box, Static, Structural testing  
-
-**Specialized Skills**  
-- Auth: Firebase Authentication, Supabase Auth, Auth0 
-- AI/ML: DistilBERT classifier, OCR assignment extraction  
+- Languages: JavaScript, TypeScript, Python, C#, Java
+- Frameworks/Libraries: React, Next.js, Node.js, Express.js, FastAPI, .NET
+- Databases: MySQL, Postgres, MongoDB, Oracle, Firestore
+- Frontend: HTML5, CSS3, Tailwind CSS
+- Backend: RESTful APIs, Server Configuration, Prisma ORM
+- Cloud & Deployment: Google Cloud Platform, Vercel, Docker, Linux
+- Auth: OAuth, JWT, Firebase Auth, Auth0
+- Tools & Practices: Git/GitHub, Agile, Figma
+- Specialized: AI Integration, OCR (DistilBERT), Blazor MAUI Hybrid, React Native (Expo)  
 
 ---
 
