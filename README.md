@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/Email-davontetnk%40gmail.com-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:davontetnk@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-Davonte%20McLean-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davonte-mclean-75b25a248/)
-[![](https://img.shields.io/badge/Resume-View%20My%20Resume-%230077B5.svg?&style=for-the-badge&color=blue)](resume-link-here)
+[![](https://img.shields.io/badge/Resume-View%20My%20Resume-%230077B5.svg?&style=for-the-badge&color=blue)](Resume_for_Davonte_McLean.pdf)
 
 ---
 
