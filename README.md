@@ -66,7 +66,7 @@ Currently, I’m developing production-grade applications, integrating AI into r
 
 ## Featured Projects 🛠
 
-- [**MilkchaCo E-Commerce Platform**](https://milkcha.shop/shop) (Capstone) – Full-stack MERN app with Firebase auth, Redux state management, admin dashboard, analytics and responsive UI.
+- [**MilkchaCo E-Commerce Platform**]((https://photos.app.goo.gl/1dJqhq48c3NVzKry7)) (Capstone) – Full-stack MERN app with Firebase auth, Redux state management, admin dashboard, analytics and responsive UI.
 
 - [**OCR Assignment Manager**](https://github.com/DavonteMc/ocr-assignment-manager) – AI-powered OCR and NLP pipeline for extracting and classifying LMS assignments from screenshots.
 
