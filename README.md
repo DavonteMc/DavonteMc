@@ -66,9 +66,28 @@ Currently, I’m developing production-grade applications, integrating AI into r
 
 ## Featured Projects 🛠
 
-- [**MilkchaCo E-Commerce Platform**](https://photos.app.goo.gl/1dJqhq48c3NVzKry7) (Capstone) – Full-stack MERN app with Firebase auth, Redux state management, admin dashboard, analytics and responsive UI.
+#### [**MilkchaCo E-Commerce Platform**](https://photos.app.goo.gl/1dJqhq48c3NVzKry7) (Capstone)
+Collaborated with my capstone team to design and develop a full‑stack e‑commerce application for our client’s sticker business. The platform solved challenges with third‑party marketplaces such as unpredictable fees and policy changes, limited customization tools, and lack of analytics by delivering a tailored storefront and robust admin dashboard.
 
-- [**OCR Assignment Manager**](https://github.com/DavonteMc/ocr-assignment-manager) – AI-powered OCR and NLP pipeline for extracting and classifying LMS assignments from screenshots.
+Key Contributions:
+- Designed and implemented responsive UI components using React and Tailwind CSS, enhancing accessibility and user engagement.
+- Integrated Firebase Authentication with dynamic UI states for personalized customer experiences.
+- Extended backend services with Express.js and MongoDB to handle products, orders, reviews, and analytics.
+- Built a secure Admin Dashboard with sales reports, top product leaderboards, and revenue insights.
+- Engineered a persistent cart with Redux and optimized API payloads to reduce load times.
+- Collaborated using Agile practices: Managed development through Trello boards and sprint cycles, ensuring clear task tracking, timely delivery, and effective teamwork.
+
+Demo Video: 
+The link is to the demo video that I created and presented for our final presentation. It is segmented into sections highlighting:
+- The standard user flow for the application
+- Responsive Design
+- Reviews & AI Moderation
+- Sales Dashboard
+- Product Management
+- Sales & Promo Codes
+- User Management & Shipping Rules
+
+#### [**OCR Assignment Manager**](https://github.com/DavonteMc/ocr-assignment-manager) – AI-powered OCR and NLP pipeline for extracting and classifying LMS assignments from screenshots.
 
 ---
 
